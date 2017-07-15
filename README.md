@@ -8,7 +8,8 @@ The drawing operation works by
 void pixdrw(int x,int y,int r,int g,int b)
 ```
 x,y means the West-East distance and North-South distance between this point and the ** NW ** corner
-r g b as it means usually
+
+r,g,b as it means usually
 
 You need to insert the code including pixdrw() to the maindraw() function or somewhere you like ;-)
 
