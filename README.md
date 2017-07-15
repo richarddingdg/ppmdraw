@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PPMDraw
 #### A brief .ppm picture generator
 Also a frame/platform (sort of)
@@ -29,7 +28,5 @@ Such as
 * filetype runtime
 * dynamic board size (instead of #define)
 * blah blah
-=======
-# ppmdraw
-A brief .ppm picture generator
->>>>>>> c5a723b5cadb637a03eae1aee3c4efd34a72d9c1
+
+EOF
